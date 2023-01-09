@@ -1,13 +1,14 @@
 #include <iostream>
+#include <algorithm>
 #include <vector>
 
-void G() {
+void H() {
 
 }
 
 int main() {
 
-    G();
+    H();
     //thx
 
     return 0;
